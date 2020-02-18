@@ -1,0 +1,84 @@
+[submodule "lisa/Sorting"]
+	path = lisa/Sorting
+	url = https://github.com/Ziggyss/Sorting.git
+[submodule "lisa/Sprint1"]
+	path = lisa/Sprint1
+	url = https://github.com/Ziggyss/Sprint-Challenge--Intro-Python.git
+[submodule "lisa/intro2"]
+	path = lisa/intro2
+	url = https://github.com/Ziggyss/Intro-Python-II.git
+[submodule "lisa/intro1"]
+	path = lisa/intro1
+	url = https://github.com/Ziggyss/Intro-Python-I.git
+[submodule "martin/intro1"]
+	path = martin/intro1
+	url = https://github.com/twumm/Intro-Python-I.git
+[submodule "martin/sprit1"]
+	path = martin/sprit1
+	url = https://github.com/twumm/Sprint-Challenge--Intro-Python.git
+[submodule "martin/intro2"]
+	path = martin/intro2
+	url = https://github.com/twumm/Intro-Python-II.git
+[submodule "martin/sorting1"]
+	path = martin/sorting1
+	url = https://github.com/twumm/Sorting.git
+[submodule "pere/sorting1"]
+	path = pere/sorting1
+	url = https://github.com/petrussola/Sorting.git
+[submodule "pere/intro1"]
+	path = pere/intro1
+	url = https://github.com/petrussola/Intro-Python-I.git
+[submodule "pere/intro2"]
+	path = pere/intro2
+	url = https://github.com/petrussola/Intro-Python-II.git
+[submodule "pere/sprint1"]
+	path = pere/sprint1
+	url = https://github.com/petrussola/Sprint-Challenge--Intro-Python.git
+[submodule "dom/intro1"]
+	path = dom/intro1
+	url = https://github.com/domeccleston/Intro-Python-I.git
+[submodule "dom/intro2"]
+	path = dom/intro2
+	url = https://github.com/domeccleston/Intro-Python-II.git
+[submodule "dom/sprint1"]
+	path = dom/sprint1
+	url = https://github.com/domeccleston/Sprint-Challenge--Intro-Python.git
+[submodule "mildred/sorting1"]
+	path = mildred/sorting1
+	url = https://github.com/awuorm/Sorting.git
+[submodule "mildred/intro2"]
+	path = mildred/intro2
+	url = https://github.com/awuorm/Intro-Python-II.git
+[submodule "mildred/intro1"]
+	path = mildred/intro1
+	url = https://github.com/awuorm/Intro-Python-I.git
+[submodule "mildred/sprint1"]
+	path = mildred/sprint1
+	url = https://github.com/awuorm/Sprint-Challenge--Intro-Python.git
+[submodule "folashade/intro1"]
+	path = folashade/intro1
+	url = https://github.com/estheragbaje/Intro-Python-I.git
+[submodule "folashade/intro2"]
+	path = folashade/intro2
+	url = https://github.com/estheragbaje/Intro-Python-II.git
+[submodule "folashade/sprint1"]
+	path = folashade/sprint1
+	url = https://github.com/estheragbaje/Sprint-Challenge--Intro-Python.git
+[submodule "chineducn/intro1"]
+	path = chineducn/intro1
+	url = https://github.com/chineducn/Intro-Python-I.git
+[submodule "intro2"]
+	path = intro2
+	url = https://github.com/chineducn/Intro-Python-II.git
+[submodule "chineducn/sprint1"]
+	path = chineducn/sprint1
+	url = https://github.com/chineducn/Sprint-Challenge--Intro-Python.git
+[submodule "chineducn/intro2"]
+	path = chineducn/intro2
+	url = https://github.com/chineducn/Intro-Python-II.git
+[submodule "dom/sorting1"]
+	path = dom/sorting1
+	url = https://github.com/domeccleston/Sorting.git
+[submodule "folashade/sorting1"]
+	path = folashade/sorting1
+	url = https://github.com/estheragbaje/Sorting.git
