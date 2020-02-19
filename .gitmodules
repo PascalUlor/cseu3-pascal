@@ -82,3 +82,21 @@
 [submodule "folashade/sorting1"]
 	path = folashade/sorting1
 	url = https://github.com/estheragbaje/Sorting.git
+[submodule "chineducn/algo"]
+	path = chineducn/algo
+	url = https://github.com/chineducn/Algorithms.git
+[submodule "mildred/algo"]
+	path = mildred/algo
+	url = https://github.com/awuorm/Algorithms.git
+[submodule "dom/algo"]
+	path = dom/algo
+	url = https://github.com/domeccleston/Algorithms.git
+[submodule "lisa/algo"]
+	path = lisa/algo
+	url = https://github.com/Ziggyss/Algorithms.git
+[submodule "martin/algo"]
+	path = martin/algo
+	url = https://github.com/twumm/Algorithms.git
+[submodule "pere/algo"]
+	path = pere/algo
+	url = https://github.com/petrussola/Algorithms.git
