@@ -100,3 +100,33 @@
 [submodule "pere/algo"]
 	path = pere/algo
 	url = https://github.com/petrussola/Algorithms.git
+[submodule "folashade/algo"]
+	path = folashade/algo
+	url = https://github.com/estheragbaje/Algorithms.git
+[submodule "Algorithms"]
+	path = Algorithms
+	url = https://github.com/LambdaSchool/Algorithms.git
+[submodule "lisa/sprint2"]
+	path = lisa/sprint2
+	url = https://github.com/Ziggyss/Sprint-Challenge--Algorithms.git
+[submodule "pere/sprint2"]
+	path = pere/sprint2
+	url = https://github.com/petrussola/Sprint-Challenge--Algorithms.git
+[submodule "mildred/sprint2"]
+	path = mildred/sprint2
+	url = https://github.com/awuorm/Sprint-Challenge--Algorithms.git
+[submodule "martin/sprint2"]
+	path = martin/sprint2
+	url = https://github.com/twumm/Sprint-Challenge--Algorithms.git
+[submodule "dom/sprint2"]
+	path = dom/sprint2
+	url = https://github.com/domeccleston/Sprint-Challenge--Algorithms.git
+[submodule "folashade/sprint2"]
+	path = folashade/sprint2
+	url = https://github.com/estheragbaje/Sprint-Challenge--Algorithms.git
+[submodule "sprint2"]
+	path = sprint2
+	url = https://github.com/LambdaSchool/Sprint-Challenge--Algorithms.git
+[submodule "pascal/sprint2"]
+	path = pascal/sprint2
+	url = https://github.com/LambdaSchool/Sprint-Challenge--Algorithms.git
