@@ -136,3 +136,15 @@
 [submodule "tom/progweekend"]
 	path = tom/progweekend
 	url = https://github.com/decagondev/programming_weekend.git
+[submodule "pere/ds-project1"]
+	path = pere/ds-project1
+	url = https://github.com/petrussola/Data-Structures.git
+[submodule "lisa/ds-project1"]
+	path = lisa/ds-project1
+	url = https://github.com/Ziggyss/Data-Structures.git
+[submodule "folashade/ds-project1"]
+	path = folashade/ds-project1
+	url = https://github.com/estheragbaje/Data-Structures.git
+[submodule "mildred/ds-project1"]
+	path = mildred/ds-project1
+	url = https://github.com/awuorm/Data-Structures.git
