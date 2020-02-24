@@ -103,8 +103,8 @@
 [submodule "folashade/algo"]
 	path = folashade/algo
 	url = https://github.com/estheragbaje/Algorithms.git
-[submodule "Algorithms"]
-	path = Algorithms
+[submodule "pascal/Algorithms"]
+	path = pascal/Algorithms
 	url = https://github.com/LambdaSchool/Algorithms.git
 [submodule "lisa/sprint2"]
 	path = lisa/sprint2
@@ -130,3 +130,9 @@
 [submodule "pascal/sprint2"]
 	path = pascal/sprint2
 	url = https://github.com/LambdaSchool/Sprint-Challenge--Algorithms.git
+[submodule "pascal/ds1"]
+	path = pascal/ds1
+	url = https://github.com/LambdaSchool/Data-Structures.git
+[submodule "tom/progweekend"]
+	path = tom/progweekend
+	url = https://github.com/decagondev/programming_weekend.git
