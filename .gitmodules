@@ -148,3 +148,36 @@
 [submodule "mildred/ds-project1"]
 	path = mildred/ds-project1
 	url = https://github.com/awuorm/Data-Structures.git
+[submodule "tom/linkedlist"]
+	path = tom/linkedlist
+	url = https://github.com/decagondev/CSEU3-DataStructures-GP.git
+[submodule "dom/ds-project1"]
+	path = dom/ds-project1
+	url = https://github.com/domeccleston/Data-Structures.git
+[submodule "martin/ds-project1"]
+	path = martin/ds-project1
+	url = https://github.com/twumm/Data-Structures.git
+[submodule "pascal/ds-sprint"]
+	path = pascal/ds-sprint
+	url = https://github.com/LambdaSchool/Sprint-Challenge--Data-Structures-Python.git
+[submodule "martin/ds-sprint"]
+	path = martin/ds-sprint
+	url = https://github.com/twumm/Sprint-Challenge--Data-Structures-Python.git
+[submodule "lisa/ds-sprint"]
+	path = lisa/ds-sprint
+	url = https://github.com/Ziggyss/Sprint-Challenge--Data-Structures-Python.git
+[submodule "mildred/ds-sprint"]
+	path = mildred/ds-sprint
+	url = https://github.com/awuorm/Sprint-Challenge--Data-Structures-Python.git
+[submodule "folashade/ds-sprint"]
+	path = folashade/ds-sprint
+	url = https://github.com/estheragbaje/Sprint-Challenge--Data-Structures-Python.git
+[submodule "pere/ds-sprint"]
+	path = pere/ds-sprint
+	url = https://github.com/petrussola/Sprint-Challenge--Data-Structures-Python.git
+[submodule "chineducn/ds-sprint"]
+	path = chineducn/ds-sprint
+	url = https://github.com/chineducn/Sprint-Challenge--Data-Structures-Python.git
+[submodule "dom/ds-sprint"]
+	path = dom/ds-sprint
+	url = https://github.com/domeccleston/Sprint-Challenge--Data-Structures-Python.git
