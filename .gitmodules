@@ -181,3 +181,54 @@
 [submodule "dom/ds-sprint"]
 	path = dom/ds-sprint
 	url = https://github.com/domeccleston/Sprint-Challenge--Data-Structures-Python.git
+[submodule "pascal/django-game"]
+	path = pascal/django-game
+	url = https://github.com/LambdaSchool/CS-Build-Week-1.git
+[submodule "mudapp"]
+	path = mudapp
+	url = https://github.com/PascalUlor/Intro-Django.git
+[submodule "pascal/mudapp"]
+	path = pascal/mudapp
+	url = https://github.com/PascalUlor/Intro-Django.git
+[submodule "martin/hashtable"]
+	path = martin/hashtable
+	url = https://github.com/twumm/Hash-Tables.git
+[submodule "pere/hashtable"]
+	path = pere/hashtable
+	url = https://github.com/petrussola/Hash-Tables.git
+[submodule "lisa/hashtable"]
+	path = lisa/hashtable
+	url = https://github.com/Ziggyss/Hash-Tables.git
+[submodule "folashade/hashtable"]
+	path = folashade/hashtable
+	url = https://github.com/estheragbaje/Hash-Tables.git
+[submodule "dom/hashtables"]
+	path = dom/hashtables
+	url = https://github.com/domeccleston/Hash-Tables.git
+[submodule "mildred/hashtables"]
+	path = mildred/hashtables
+	url = https://github.com/awuorm/Hash-Tables.git
+[submodule "pascal/blockchain"]
+	path = pascal/blockchain
+	url = https://github.com/LambdaSchool/Blockchain.git
+[submodule "tom/bc1"]
+	path = tom/bc1
+	url = https://github.com/decagondev/CSEU3_BC_GP.git
+[submodule "mildred/bc"]
+	path = mildred/bc
+	url = https://github.com/awuorm/Blockchain.git
+[submodule "lisa/bc"]
+	path = lisa/bc
+	url = https://github.com/Ziggyss/Blockchain.git
+[submodule "martin/bc"]
+	path = martin/bc
+	url = https://github.com/twumm/Blockchain.git
+[submodule "pere/bc"]
+	path = pere/bc
+	url = https://github.com/petrussola/Blockchain.git
+[submodule "mildred/sprint-bc"]
+	path = mildred/sprint-bc
+	url = https://github.com/awuorm/Sprint-Challenge--Hash-BC.git
+[submodule "pere/sprint-bc"]
+	path = pere/sprint-bc
+	url = https://github.com/petrussola/Sprint-Challenge--Hash-BC.git
