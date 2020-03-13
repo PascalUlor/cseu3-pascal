@@ -1,0 +1,9 @@
+[submodule "mildred/sprint-4"]
+	path = mildred/sprint-4
+	url = https://github.com/awuorm/Sprint-Challenge--Hash-BC.git
+[submodule "martin/sprint-4"]
+	path = martin/sprint-4
+	url = https://github.com/twumm/Sprint-Challenge--Hash-BC.git
+[submodule "pere/sprint-4"]
+	path = pere/sprint-4
+	url = https://github.com/petrussola/Sprint-Challenge--Hash-BC.git
