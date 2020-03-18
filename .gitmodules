@@ -7,3 +7,39 @@
 [submodule "pere/sprint-4"]
 	path = pere/sprint-4
 	url = https://github.com/petrussola/Sprint-Challenge--Hash-BC.git
+[submodule "bc-fe"]
+	path = bc-fe
+	url = https://github.com/petrussola/frontend-blockchain-wallet.git
+[submodule "pere/bc-fe"]
+	path = pere/bc-fe
+	url = https://github.com/petrussola/frontend-blockchain-wallet.git
+[submodule "folashade/sprint4"]
+	path = folashade/sprint4
+	url = https://github.com/estheragbaje/Sprint-Challenge--Hash-BC.git
+[submodule "lisa/sprint4"]
+	path = lisa/sprint4
+	url = https://github.com/Ziggyss/Sprint-Challenge--Hash-BC.git
+[submodule "dom/sprint4"]
+	path = dom/sprint4
+	url = https://github.com/domeccleston/Sprint-Challenge--Hash-BC.git
+[submodule "martin/graph-1"]
+	path = martin/graph-1
+	url = https://github.com/twumm/Graphs.git
+[submodule "pere/graph-1"]
+	path = pere/graph-1
+	url = https://github.com/petrussola/Graphs.git
+[submodule "lisa/graph-1"]
+	path = lisa/graph-1
+	url = https://github.com/Ziggyss/Graphs.git
+[submodule "folashade/graph-1"]
+	path = folashade/graph-1
+	url = https://github.com/estheragbaje/Graphs.git
+[submodule "pascal/graph"]
+	path = pascal/graph
+	url = https://github.com/LambdaSchool/Graphs.git
+[submodule "mildred/graph-1"]
+	path = mildred/graph-1
+	url = https://github.com/awuorm/Graphs.git
+[submodule "dom/graphs"]
+	path = dom/graphs
+	url = https://github.com/domeccleston/Graphs.git
