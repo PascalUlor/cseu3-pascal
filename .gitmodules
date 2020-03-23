@@ -43,3 +43,30 @@
 [submodule "dom/graphs"]
 	path = dom/graphs
 	url = https://github.com/domeccleston/Graphs.git
+[submodule "tom/graphs"]
+	path = tom/graphs
+	url = https://github.com/decagondev/CSEU3_Graphs_GP.git
+[submodule "folashade/graph-sprint"]
+	path = folashade/graph-sprint
+	url = https://github.com/estheragbaje/Sprint-Challenge--Graphs.git
+[submodule "mildred/graph-sprint"]
+	path = mildred/graph-sprint
+	url = https://github.com/awuorm/Sprint-Challenge--Graphs.git
+[submodule "martin/graph-sprint"]
+	path = martin/graph-sprint
+	url = https://github.com/twumm/Sprint-Challenge--Graphs.git
+[submodule "pere/graph-sprint"]
+	path = pere/graph-sprint
+	url = https://github.com/petrussola/Sprint-Challenge--Graphs.git
+[submodule "lisa/comp-arch"]
+	path = lisa/comp-arch
+	url = https://github.com/Ziggyss/Computer-Architecture.git
+[submodule "martin/comp-arch"]
+	path = martin/comp-arch
+	url = https://github.com/twumm/Computer-Architecture.git
+[submodule "comp-arch"]
+	path = comp-arch
+	url = https://github.com/petrussola/Computer-Architecture.git
+[submodule "pere/comp-arch"]
+	path = pere/comp-arch
+	url = https://github.com/petrussola/Computer-Architecture.git
