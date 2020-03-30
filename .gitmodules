@@ -70,3 +70,36 @@
 [submodule "pere/comp-arch"]
 	path = pere/comp-arch
 	url = https://github.com/petrussola/Computer-Architecture.git
+[submodule "pascal/comp-arch"]
+	path = pascal/comp-arch
+	url = https://github.com/LambdaSchool/Computer-Architecture.git
+[submodule "mildred/comp-arch"]
+	path = mildred/comp-arch
+	url = https://github.com/awuorm/Computer-Architecture.git
+[submodule "dom/comp-arch"]
+	path = dom/comp-arch
+	url = https://github.com/awuorm/Computer-Architecture.git
+[submodule "dom/comp-arc"]
+	path = dom/comp-arc
+	url = https://github.com/domeccleston/Computer-Architecture.git
+[submodule "folashade/comp-arch"]
+	path = folashade/comp-arch
+	url = https://github.com/estheragbaje/Computer-Architecture.git
+[submodule "lisa/graph-sprint"]
+	path = lisa/graph-sprint
+	url = https://github.com/Ziggyss/Sprint-Challenge--Graphs.git
+[submodule "pascal/comp-sprint"]
+	path = pascal/comp-sprint
+	url = https://github.com/LambdaSchool/Sprint-Challenge--Computer-Architecture.git
+[submodule "martin/comp-sprint"]
+	path = martin/comp-sprint
+	url = https://github.com/twumm/Sprint-Challenge--Computer-Architecture.git
+[submodule "pere/comp-sprint"]
+	path = pere/comp-sprint
+	url = https://github.com/petrussola/Sprint-Challenge--Computer-Architecture.git
+[submodule "dom/comp-sprint"]
+	path = dom/comp-sprint
+	url = https://github.com/domeccleston/Sprint-Challenge--Computer-Architecture.git
+[submodule "pascal/bw2"]
+	path = pascal/bw2
+	url = https://github.com/LambdaSchool/CS-Build-Week-2.git
