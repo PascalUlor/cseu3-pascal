@@ -103,3 +103,9 @@
 [submodule "pascal/bw2"]
 	path = pascal/bw2
 	url = https://github.com/LambdaSchool/CS-Build-Week-2.git
+[submodule "dom/dom-graph"]
+	path = dom/dom-graph
+	url = https://github.com/domeccleston/Sprint-Challenge--Graphs.git
+[submodule "pere/bw2"]
+	path = pere/bw2
+	url = https://github.com/petrussola/build-week-2-CS.git
